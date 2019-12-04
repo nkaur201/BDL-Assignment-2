@@ -1,4 +1,4 @@
-car,price,body,mileage,engV,engType,registration,year,model,drive
+Brand,price,body,mileage,engV,engType,registration,year,model,drive
 Acura,15000,sedan,150,3.5,Gas,yes,2008,RL,full
 Acura,15650,crossover,170,3.7,Petrol,yes,2008,MDX,full
 Acura,8699,sedan,144,3.2,Gas,yes,2005,TL,front
