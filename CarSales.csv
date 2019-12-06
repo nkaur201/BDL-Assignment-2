@@ -1,4 +1,4 @@
-Brand,price,body,mileage,engV,engType,registration,year,model,drive
+Brand,Price,Body,Mileage,EngV,EngType,Registration,Year,Model,Drive
 Acura,15000,sedan,150,3.5,Gas,yes,2008,RL,full
 Acura,15650,crossover,170,3.7,Petrol,yes,2008,MDX,full
 Acura,8699,sedan,144,3.2,Gas,yes,2005,TL,front
@@ -12,17 +12,17 @@ Acura,30999,crossover,32,3.7,Other,yes,2010,ZDX,full
 Acura,8700,sedan,145,3.2,Gas,yes,2005,TL,front
 Acura,38200,sedan,4,2.4,Petrol,yes,2015,TLX,front
 Acura,18500,crossover,85,3.7,Petrol,yes,2008,MDX,full
-Alfa Romeo,5900,hatch,199,1.6,Petrol,yes,2002,147,front
-Alfa Romeo,12100,sedan,91,2.2,Petrol,yes,2008,159,front
-Alfa Romeo,15999,hatch,60,1.4,Petrol,yes,2012,Giulietta,front
-Alfa Romeo,2350,vagon,230,1.9,Diesel,no,2003,156,front
-Alfa Romeo,15300,sedan,62,2.2,Petrol,yes,2009,159,front
-Alfa Romeo,2300,sedan,122,1.6,Petrol,yes,1991,75,rear
-Alfa Romeo,2300,sedan,94,1.8,Petrol,no,2000,156,front
-Alfa Romeo,12000,sedan,150,2.2,Petrol,yes,2008,159,front
-Alfa Romeo,17500,hatch,800,1.4,Petrol,yes,2012,Giulietta,front
-Alfa Romeo,11900,sedan,156,2.2,Petrol,yes,2008,159,front
-Alfa Romeo,1800,hatch,185,1.7,Gas,yes,1991,33,front
+alfa_romeo,5900,hatch,199,1.6,Petrol,yes,2002,147,front
+alfa_romeo,12100,sedan,91,2.2,Petrol,yes,2008,159,front
+alfa_romeo,15999,hatch,60,1.4,Petrol,yes,2012,Giulietta,front
+alfa_romeo,2350,vagon,230,1.9,Diesel,no,2003,156,front
+alfa_romeo,15300,sedan,62,2.2,Petrol,yes,2009,159,front
+alfa_romeo,2300,sedan,122,1.6,Petrol,yes,1991,75,rear
+alfa_romeo,2300,sedan,94,1.8,Petrol,no,2000,156,front
+alfa_romeo,12000,sedan,150,2.2,Petrol,yes,2008,159,front
+alfa_romeo,17500,hatch,800,1.4,Petrol,yes,2012,Giulietta,front
+alfa_romeo,11900,sedan,156,2.2,Petrol,yes,2008,159,front
+alfa_romeo,1800,hatch,185,1.7,Gas,yes,1991,33,front
 Aro,3600,crossover,43,1.4,Petrol,yes,1992,10,full
 Aston Martin,65000,other,37,6,Petrol,yes,2006,DB9,rear
 Aston Martin,125000,sedan,18,6,Petrol,yes,2012,Rapide,rear

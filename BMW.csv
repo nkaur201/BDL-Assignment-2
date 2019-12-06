@@ -1,4 +1,4 @@
-Brand,model_key,mileage,engine_power,fuel,paint_color,car_type,price
+Brand,Model,Mileage,Engine,Fuel,Paint_color,Car_type,Price
 BMW,118,140411,100,diesel,black,convertible,11300
 BMW,M4,13929,317,petrol,grey,convertible,69700
 BMW,320,183297,120,diesel,white,convertible,10200
